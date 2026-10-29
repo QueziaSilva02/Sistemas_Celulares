@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=KAUAN%20MODESTO%20VELOSO&fontSize=38&fontColor=2563EB&desc=SISTEMAS%20CELULARES%20%E2%80%A2%20VOL.%2001&descSize=17&descAlignY=80" alt="Kauan Modesto Veloso — Sistemas Celulares" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=QUEZIA%20PAZ%20BRITO&fontSize=38&fontColor=DC2626&desc=SISTEMAS%20CELULARES%20%E2%80%A2%20VOL.%2001&descSize=17&descAlignY=80" alt="Quezia Brito — Sistemas Celulares" />
 
 <br>
 
@@ -8,14 +8,13 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=23&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=750&height=65&lines=Conectando+clientes%2C+aparelhos+e+solu%C3%A7%C3%B5es.;Organizando+atendimentos%2C+um+registro+por+vez.;Desenvolvendo+ideias%2C+commit+por+commit." alt="Frases animadas sobre o projeto" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=23&duration=3500&pause=1200&color=DC2626&center=true&vCenter=true&width=750&height=65&lines=Conectando+clientes%2C+aparelhos+e+solu%C3%A7%C3%B5es.;Organizando+atendimentos%2C+um+registro+por+vez.;Desenvolvendo+ideias%2C+commit+por+commit." alt="Frases animadas sobre o projeto" />
 
 <br>
 
 [O PROJETO](#-o-projeto) &nbsp; · &nbsp;
 [MÓDULOS](#-por-dentro-do-sistema) &nbsp; · &nbsp;
-[JORNADA](#-do-cliente-ao-agendamento) &nbsp; · &nbsp;
-[AUTOR](#-quem-assina-o-projeto)
+[JORNADA](#-do-cliente-ao-agendamento) &nbsp;  &nbsp;
 
 </div>
 
@@ -44,7 +43,7 @@ O projeto conecta essas informações para tornar o gerenciamento dos reparos ma
 </td>
 <td width="35%" align="center" valign="top">
 
-### 🔵 FOCO
+### 🔴 FOCO
 
 Organização do atendimento
 
@@ -69,7 +68,7 @@ Kauan Modesto Veloso
 **Clique em cada módulo para conhecer a proposta.**
 
 <details>
-<summary><strong>🔹 01 — CLIENTES | O início de cada atendimento</strong></summary>
+<summary><strong>🔴 01 — CLIENTES | O início de cada atendimento</strong></summary>
 
 <br>
 
@@ -89,7 +88,7 @@ O módulo de clientes organiza os registros das pessoas atendidas pela assistên
 <br>
 
 <details>
-<summary><strong>🔹 02 — APARELHOS | Cada equipamento no seu lugar</strong></summary>
+<summary><strong>🔴 02 — APARELHOS | Cada equipamento no seu lugar</strong></summary>
 
 <br>
 
@@ -109,7 +108,7 @@ O módulo de aparelhos permite registrar os celulares e identificar o cliente re
 <br>
 
 <details>
-<summary><strong>🔹 03 — AGENDAMENTOS | Organização para o próximo reparo</strong></summary>
+<summary><strong>🔴 03 — AGENDAMENTOS | Organização para o próximo reparo</strong></summary>
 
 <br>
 
@@ -129,7 +128,7 @@ O módulo de agendamentos organiza os atendimentos de reparo.
 <br>
 
 <details>
-<summary><strong>🔹 04 — AUTENTICAÇÃO | Acesso com controle</strong></summary>
+<summary><strong>🔴 04 — AUTENTICAÇÃO | Acesso com controle</strong></summary>
 
 <br>
 
@@ -216,7 +215,7 @@ Checklist de referência. Marque os itens conforme forem concluídos.
 
 <div align="center">
 
-### [Kauan Modesto Veloso](#-quem-assina-o-projeto)
+### [Quezia Brito](#-quem-assina-o-projeto)
 
 Estudante de Desenvolvimento de Sistemas.
 
